@@ -1,2 +1,2 @@
-este es el reposit de rigs
+este es el repositorio de rigs
 
